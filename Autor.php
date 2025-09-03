@@ -29,5 +29,3 @@ class Autor {
         return "Autor: {$this->nombre}  ({$this->nacionalidad}) \n";
     }
 }    
-
-    // --- GETTERS ---
