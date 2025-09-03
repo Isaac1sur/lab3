@@ -1,6 +1,5 @@
 <?php
 
-
 require_once ("Autor.php");
 require_once ("ImprimirAutor.php");
 require_once ("Libro.php");
